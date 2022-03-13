@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/20shiy/TwitterApp/blob/master/twitterAppGifWalkthrough.gif' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [recordit.co](https://recordit.co/).
 
 ## Open-source libraries used
 
